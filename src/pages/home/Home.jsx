@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className='homePage'>
        <HeroBanner />
-       <Trending />
+       <Trending/>
     </div>
   )
 }
